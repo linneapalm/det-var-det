@@ -5,12 +5,13 @@ body {
   align-items: center;
   margin-top: 150px;
   background-color: #224488;
+  color: white;
 
 }
 
 
 h1 {
-  color: white;
+
   font-weight: lighter;
   font-size: 40px;
   letter-spacing: 2px;
@@ -46,6 +47,5 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white;
   font-size: 35px;
 }
